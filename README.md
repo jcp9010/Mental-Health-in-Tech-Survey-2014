@@ -1,6 +1,7 @@
 # Mental-Health-in-Tech-Survey-2014
 
 https://www.kaggle.com/osmi/mental-health-in-tech-survey
+
 This dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. You are also encouraged to analyze data from the ongoing 2016 survey found here.
 
 Content
@@ -32,8 +33,6 @@ This dataset contains the following data:
 * phys_health_interview: Would you bring up a physical health issue with a potential employer in an interview?
 * mental_vs_physical: Do you feel that your employer takes mental health as seriously as physical health?
 * obs_consequence: Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?
-
-comments: Any additional notes or comments
 
 Inspiration
 
